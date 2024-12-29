@@ -181,6 +181,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+I am a research scientist at NVIDIA, working on physics simulators and their applications in robotics.
+My research is focused on reducing the sim2real gap. I am investigating simulators as semantic models of the world that can be updated from measurements. Such models are parameterized by physically meaningful variables and can enable robots to perform complex tasks.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I obtained my Ph.D. degree in Computer Science from the [University of Southern California (USC)](http://www.usc.edu") advised by [Gaurav Sukhatme](http://robotics.usc.edu/~gaurav/) and was supported by a [Google PhD Fellowship](https://ai.googleblog.com/2020/10/announcing-2020-google-phd-fellows.html). I received a Master's degree from USC, and a Bachelor's degree from the [University of Rostock](https://www.uni-rostock.de/) (Germany).
