@@ -52,16 +52,16 @@ interests:
   - Autonomous robots
   - Task and Motion Planning
 
-education:
-  - course: PhD Computer Science
-    institution: University of Southern California
-    year: 2022
-  - course: MSc Computer Science (Intelligent Robotics)
-    institution: University of Southern California
-    year: 2017
-  - course: BSc Computer Science
-    institution: University of Rostock, Germany
-    year: 2015
+# education:
+#   - course: PhD Computer Science
+#     institution: University of Southern California
+#     year: 2022
+#   - course: MSc Computer Science (Intelligent Robotics)
+#     institution: University of Southern California
+#     year: 2017
+#   - course: BSc Computer Science
+#     institution: University of Rostock, Germany
+#     year: 2015
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
